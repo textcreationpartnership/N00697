@@ -114,8 +114,10 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000843_0000_0FABA32D2EA0A540" rendition="simple:additions"/>
-            <pb facs="tcp:000843_0001_0FABA32DDB170F00" rendition="simple:additions"/>
+            <pb facs="unknown:000843_0000_0FABA32D2EA0A540"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000843_0001_0FABA32DDB170F00"
+                rendition="simple:additions"/>
             <head>
                <figure/> By His Excellency <hi>Richard Earl of Bellomont,</hi> Captain General and Governour in Chief of His Majeſties Province of <hi>New-York,</hi> and Territories depending thereon in <hi>America,</hi> and Vice Admiral of the ſame &amp;c. A PROCLAMATION</head>
             <p>WHereas there is nothing more evident in holy Scriptures, than when a Nation or People do with-draw their Affections from God and his holy Ordinances, and ſuffer themſelves to be miſ-guided by their wild and natural Appetites, that Religion and Government becomes Contemptible, and the People degenerate into Looſeneſs and Prophaneneſs, blaſpheming the holy Name of God, and ſpeaking evil of Dignities and Powers. And whereas it is obſervable, that of late years the People of this Province not having a due regard to thoſe holy Duties which are required of them by Almighty God, in the holy Scriptures, have fallen into grea<gap reason="illegible: missing" extent="1 letter">
